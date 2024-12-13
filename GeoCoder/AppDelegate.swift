@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  GeoCoder
-//
-//  Created by Nikolay Ratushnyak on 13.12.2024.
-//
-
 import UIKit
 
 @main
